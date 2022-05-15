@@ -1,0 +1,35 @@
+.title {
+  background-color: lightblue;
+  height: 30px;
+  margin: 0px;
+  padding: 6px 8px;
+  font-size: 20px;
+}
+pre {
+  font-size: large;
+  font-weight: bold;
+  margin: 0;
+}
+.snippet {
+  overflow: auto;
+  padding: 8px 14px;
+}
+
+.bottom {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 6px 12px;
+}
+
+.icon {
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}
+
+.copyIcon {
+  height: 25px;
+  width: 25px;
+  cursor: pointer;
+}
